@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Seto
+ *
+ */
+module budgetallocation {
+}
